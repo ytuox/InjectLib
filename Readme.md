@@ -1,4 +1,4 @@
-# QiuChenly InjectShell（恢复 Parallels Desktop 19 激活功能）
+# QiuChenly InjectShell
 本项目基于「秋城落叶开源项目」的 InjectLib 项目和外网的修改版 Parallels Desktop 激活脚本修改而来。<br>
 原作者：[QiuChenly](https://twitter.com/QiuChenly)
 

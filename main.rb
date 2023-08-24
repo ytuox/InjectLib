@@ -59,9 +59,12 @@ def main
     # return
   end
 
-  puts "====\t自动注入脚本开始执行 ====\n"
-  puts "====\tAutomatic Inject Script Checking... ====\n"
-  puts "== Design By QiuChenly#github.com/qiuchenly"
+  puts "====================================\n"
+  puts "自动注入脚本开始执行...\n"
+  puts "Automatic Inject Script Checking...\n"
+  puts "Design By QiuChenly # github.com/qiuchenly\n"
+  puts "Modified Edition By RainCandy Technology github.com/RainCandyTech\n"
+  puts "====================================\n"
   puts "注入时请根据提示输入'y' 或者按下回车键跳过这一项。\n"
   puts "When i find useful options, pls follow my prompts enter 'y' or press enter key to jump that item.\n"
 
